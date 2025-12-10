@@ -1,0 +1,10 @@
+Projeto esta no itch.io se quiser ver melhor
+https://ribturan.itch.io/bunny-maze-3k
+historico geral
+===Alpha==
+v0.0.1 feita em 08/12/2025
+o jogo nasceu(prototipo)
+v0.0.2 feita em 10/12/2025
+>Melhor geração de maze e ajsute na gameplay
+>Troca de paleta(3 disponiveis)
+>Correçoes menores :)
